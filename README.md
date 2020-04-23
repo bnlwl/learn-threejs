@@ -1,4 +1,4 @@
-# umi project
+# qc umi project
 
 ## Getting Started
 
